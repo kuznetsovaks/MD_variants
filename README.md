@@ -1,7 +1,7 @@
 # Monogenic diabetes associated variants
 A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes
 
-![alt text](https://github.com/kuznetsovaks/MD_variants/blob/96979450cdc4ce49bacb15a55d31ae22e4039187/figures/mindmap.png?raw=true)
+![alt text](https://github.com/kuznetsovaks/MD_variants/blob/ed7c7e8cf9e948b452dac5935c6c44213d1d5ef6/figures/mindmap.png?raw=true)
 
 The `input` directory contains all the input files and all the files that were updated 
 manually and used further in the pipeline (for more details see the pipeline diagram)
