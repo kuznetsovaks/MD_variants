@@ -27,6 +27,7 @@ use [ProVar](https://github.com/ProGenNo/ProHap.git)
  - `7_Visualization_proteins.ipynb` - Takes the variant tables of two levels and a reference 
 FASTA from Ensembl and visualises the positions of the variants on the protein sequences 
 for all protein isoforms.
+- `MD_variants.yml` - is a file that can be used to create the conda environment for running the pipeline.
 
 The `intermediate` directory contains the intermediate tables created by the code.
 
