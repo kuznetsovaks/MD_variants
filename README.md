@@ -34,3 +34,5 @@ The `figures` directory contains the figures created by the code.
 
 The `results` directory contains final variant tables of two levels. The final fasta files with the translated protein sequences can be accessed on [figshare.com](https://figshare.com/articles/dataset/Results_fasta_files_for_A_systematic_mapping_of_the_genomic_and_proteomic_variation_associated_with_monogenic_diabetes_/21444963)
 
+The `HCS` directory contains the example of reproduction of the pipeline on Hajdu-Cheney syndrome (HCS).
+
